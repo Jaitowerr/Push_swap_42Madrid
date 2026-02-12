@@ -19,8 +19,8 @@ void medium_extraccion(t_list **a, t_list **b)
 	int		posicion;
 	int		index;
 
-	index 0;
-	
+	index = 0;
+
 }
 
 
